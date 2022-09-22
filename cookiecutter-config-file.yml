@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "x47math"
+  project_description: "This project was created for algebra solving."
+  organization: "x47base"
+  license: "MIT"
+  minimal_python_version: 3.9
+  github_name: "x47base"
+  email: "dr.greenjet@gmail.com"
+  version: "0.0.1"
+  line_length: "100"
+  create_example_template: "none"
